@@ -1,0 +1,63 @@
+/* Resetear los estilos por defecto del navegador */
+body {
+  background-color: #FFE5B4;
+  color: #000000;
+  
+}
+
+header {
+  background-color: #FF7A00;
+  color: #fff;
+}
+
+h1 {
+  font-size: 2em;
+  color: #000000;
+  font-size: xx-large;
+  text-align: center;
+}
+
+section {
+  margin: 20px 0;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+  background-position: center;
+  background-size: contain;
+  position: relative;
+  padding-top: 5%;
+  padding-left: 2%;
+}
+
+p {
+  font-size: 1.5em;
+  color: #000000;
+  text-align: justify;
+  margin: 15px;
+  
+}
+
+footer {
+  background-color: #fff;
+  color: #000000;
+  padding: 20px;
+  text-align: center;
+}
+
+a {
+  color: #FF7A00;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section{
+  display: flex;
+  border-style: solid;
+  border-radius: 14px;
+}
